@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pkorianski:BBall1993.@korianski-lkyfc.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "468d314f83abdabc23c2",
+  "githubSecret": "677258c87890a6f35fb2404c6a6a210253f8b68e"
+}
