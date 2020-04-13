@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Change the network card 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-04-12T18:29:48.690Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-04-12T19:41:33.966Z"
+    },
+    {
+      "id": 3,
+      "message": "1112 Wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-04-12T19:41:39.053Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Pat",
+      "lastName": "Kori",
+      "id": 4
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Smith",
+      "id": 6
+    }
+  ]
+}
