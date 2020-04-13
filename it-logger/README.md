@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Purpose
 
-Review Hooks, MongoDB, Express, React, and MongoDB in a contact storing web app
+Training on using React with redux state management
 
 ### Technologies Used
 
